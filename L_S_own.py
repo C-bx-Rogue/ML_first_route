@@ -2,6 +2,8 @@
 """
 Created on Fri Apr 28 10:21:58 2017
 
+least square method
+
 @author: rogue
 """
 
